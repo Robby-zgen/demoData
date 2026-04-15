@@ -1,0 +1,24 @@
+{
+  "players": [
+    { "playerName": "Emiliano Martinez", "posNo": 1 },
+    { "playerName": "Alisson Becker", "posNo": 1 },
+    { "playerName": "Virgil van Dijk", "posNo": 2 },
+    { "playerName": "Ruben Dias", "posNo": 2 },
+    { "playerName": "Marquinhos", "posNo": 2 },
+    { "playerName": "Achraf Hakimi", "posNo": 2 },
+    { "playerName": "Alphonso Davies", "posNo": 2 },
+    { "playerName": "Kevin De Bruyne", "posNo": 3 },
+    { "playerName": "Luka Modric", "posNo": 3 },
+    { "playerName": "Jude Bellingham", "posNo": 3 },
+    { "playerName": "Pedri", "posNo": 3 },
+    { "playerName": "Bruno Fernandes", "posNo": 3 },
+    { "playerName": "Declan Rice", "posNo": 3 },
+    { "playerName": "Lionel Messi", "posNo": 4 },
+    { "playerName": "Kylian Mbappe", "posNo": 4 },
+    { "playerName": "Erling Haaland", "posNo": 4 },
+    { "playerName": "Mohamed Salah", "posNo": 4 },
+    { "playerName": "Vinicius Jr", "posNo": 4 },
+    { "playerName": "Robert Lewandowski", "posNo": 4 },
+    { "playerName": "Harry Kane", "posNo": 4 }
+  ]
+}
