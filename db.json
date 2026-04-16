@@ -1,14 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data": [
+    { "name" : "Jason", "hp": 100, "attack" : 100 },
+    { "name" : "Randi", "hp": 1100, "attack" : 1600 },
+    { "name" : "Idi", "hp": 1500, "attack" : 1005 }
+  ]
+
 }
