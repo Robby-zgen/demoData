@@ -1,9 +1,9 @@
 {
   "players": [
-    { "playerName": "Andy", "posNo": 1, "price": 8 },
+    { "playerName": "Andy", "posNo": 1, "price": 4 },
     { "playerName": "Bedul", "posNo": 2, "price": 5 },
-    { "playerName": "Cendy", "posNo": 3, "price": 9 },
-    { "playerName": "Doni", "posNo": 4, "price": 10 },
+    { "playerName": "Cendy", "posNo": 3, "price": 4 },
+    { "playerName": "Doni", "posNo": 4, "price": 3 },
     { "playerName": "Egi", "posNo": 2, "price": 11 },
     { "playerName": "Farhan", "posNo": 4, "price": 4 },
     { "playerName": "Ghani", "posNo": 1, "price": 7 },
